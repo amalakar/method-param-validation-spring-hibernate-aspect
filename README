@@ -1,0 +1,4 @@
+Examples of method parameter validation using hibernate vaidator, spring and aspect.
+It has testNG test cases as well.
+
+Derived from: https://github.com/gunnarmorling/methodvalidation-integration 
